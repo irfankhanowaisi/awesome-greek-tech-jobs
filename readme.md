@@ -4,7 +4,7 @@ A comprehensive map of Greek tech companies, highlighting their focus sectors, c
 ---
 
 ## Engineering Hubs & Career Portals
-*A directory of 77 tech companies in Greece with direct links to their jobs and LinkedIn presence.*
+*A directory of 78 tech companies in Greece with direct links to their jobs and LinkedIn presence.*
 
 | Company | Focus Sector | Careers Page | LinkedIn Profile |
 | :--- | :--- | :--- | :--- |
@@ -32,6 +32,7 @@ A comprehensive map of Greek tech companies, highlighting their focus sectors, c
 | **[European Dynamics](https://www.eurodyn.com/)** | IT Services | [Careers](https://www.eurodyn.com/careers/) | [LinkedIn](https://www.linkedin.com/company/european-dynamics) |
 | **[Evenly](https://evenly.care/)** | AI-powered Accessibility & Inclusion Technology | [Careers](https://evenly.care/contact-us-el.html) | [LinkedIn](https://www.linkedin.com/company/evenly-care) |
 | **[EY Greece](https://www.ey.com/en_gr)** | Consulting / Tech | [Careers](https://www.ey.com/en_gr/careers) | [LinkedIn](https://www.linkedin.com/company/eygreece) |
+| **[EY Greece (Ernst & Young)](https://www.ey.com/en_gr)** | Assurance, Tax, Consulting, Strategy & Transactions | [Careers](https://www.ey.com/en_gr/careers/job-search) | N/A |
 | **[Ferryhopper](https://www.ferryhopper.com/)** | TravelTech | [Careers](https://startup.jobs/companies/ferryhopper) | [LinkedIn](https://www.linkedin.com/company/ferryhopper) |
 | **[Free Now](https://free-now.com/)** | Mobility / Apps | [Careers](https://free-now.com/careers/) | [LinkedIn](https://www.linkedin.com/company/free-now) |
 | **[Hack The Box](https://www.hackthebox.com/)** | Cybersecurity Training & Gamified Upskilling | [Careers](https://apply.workable.com/hack-the-box-ltd/) | [LinkedIn](https://www.linkedin.com/company/hackthebox) |
