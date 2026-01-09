@@ -4,7 +4,7 @@ A comprehensive map of Greek tech companies, highlighting their focus sectors, c
 ---
 
 ## Engineering Hubs & Career Portals
-*A directory of 80 tech companies in Greece with direct links to their jobs and LinkedIn presence.*
+*A directory of 81 tech companies in Greece with direct links to their jobs and LinkedIn presence.*
 
 | Company | Focus Sector | Careers Page | LinkedIn Profile |
 | :--- | :--- | :--- | :--- |
@@ -88,6 +88,7 @@ A comprehensive map of Greek tech companies, highlighting their focus sectors, c
 | **[Wolt Greece](https://wolt.com/en/grc)** | Last-mile Delivery & FoodTech | [Careers](https://careers.wolt.com/en/jobs?locations=Greece&location=Greece) | [LinkedIn](https://www.linkedin.com/company/wolt-oy) |
 | **[Workable](https://www.workable.com/)** | SaaS | [Careers](https://apply.workable.com/workable/) | [LinkedIn](https://www.linkedin.com/company/workable) |
 | **[XM](https://www.xm.com/)** | Fintech | [Careers](https://jobs.eu.lever.co/xm) | [LinkedIn](https://www.linkedin.com/company/xm-global) |
+| **[Yodeck](https://www.yodeck.com/)** | Digital Signage | [Careers](https://www.yodeck.com/careers/) | [LinkedIn](https://www.linkedin.com/company/flipnode-llc) |
 | **[Yodiwo](https://www.yodiwo.gr/)** | IoT and Smart Systems | [Careers](https://www.yodiwo.gr/careers/) | [LinkedIn](https://www.linkedin.com/company/yodiwo) |
 
 ---
