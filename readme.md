@@ -1,8 +1,6 @@
 # awesome-greek-tech-jobs
 A comprehensive map of Greek tech companies, highlighting their focus sectors, careers pages, and LinkedIn profiles. This repository is designed to help professionals explore opportunities and connect with organizations in the Greek tech ecosystem.
 
-[**🌐 View the Live Directory**](https://leftkats.github.io/awesome-greek-tech-jobs/)
-
 ---
 
 ## Engineering Hubs & Career Portals
@@ -11,13 +9,13 @@ A comprehensive map of Greek tech companies, highlighting their focus sectors, c
 | # | Company Name | Sectors | Careers | LinkedIn |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | **[Accenture](https://www.accenture.com/gr-en)** | Strategy,Consulting,Technology,Operations | [Careers](https://www.accenture.com/gr-en/careers) | [LinkedIn](https://www.linkedin.com/company/accenture-greece) |
-| 2 | **[Aegean Airlines](https://en.aegeanair.com/)** | TravelTech | [Careers](https://en.aegeanair.com/corporate/careers/) | [LinkedIn](https://www.linkedin.com/company/aegean-airlines) |
+| 2 | **[Aegean Airlines](https://en.aegeanair.com/)** | TravelTech | [Careers](https://jobs.aegeanair.com/go/All-Jobs/8966755/) | [LinkedIn](https://www.linkedin.com/company/aegean-airlines) |
 | 3 | **[Allwyn](https://www.allwyn.com/)** | Lottery,iGaming | [Careers](https://apply.workable.com/allwynls/) | [LinkedIn](https://www.linkedin.com/company/allwyn-lottery-solutions) |
 | 4 | **[Alpha Bank](https://www.alpha.gr/)** | Banking | [Careers](https://careers.alpha.gr/) | [LinkedIn](https://www.linkedin.com/company/alpha-bank) |
-| 5 | **[Bespot](https://bespot.com/)** | AI,IoT,RetailTech | [Careers](https://apply.workable.com/bespot/) | [LinkedIn](https://www.linkedin.com/company/bespot) |
+| 5 | **[Bespot](https://bespot.com/)** | AI,IoT,RetailTech,Fraud Prevention,Location Intelligence | [Careers](https://apply.workable.com/bespot/) | [LinkedIn](https://www.linkedin.com/company/bespot) |
 | 6 | **[BestPrice](https://www.bestprice.gr/)** | E-commerce,Price Comparison,Technology | [Careers](https://www.bestprice.gr/careers) | [LinkedIn](https://www.linkedin.com/company/bestprice-gr) |
 | 7 | **[Betsson Group](https://betssongroup.com/)** | iGaming,Entertainment,Online Gaming | [Careers](https://betssongroup.com/careers/) | [LinkedIn](https://www.linkedin.com/company/betsson-group) |
-| 8 | **[Bewise](https://www.bewise.gr/)** | Digital Transformation,ICT Managed Services | [Careers](https://www.bewise.gr/careers/) | [LinkedIn](https://www.linkedin.com/company/bewise-sa) |
+| 8 | **[Bewise](https://www.bewise.gr/)** | Digital Transformation,ICT Managed Services | [Careers](https://www.bewise.gr/careers/) | [LinkedIn](https://www.linkedin.com/company/bewisesolutions) |
 | 9 | **[Blueground](https://www.theblueground.com/)** | PropTech,Real Estate | [Careers](https://apply.workable.com/blueground/) | [LinkedIn](https://www.linkedin.com/company/blueground-co) |
 | 10 | **[Cosmote](https://www.cosmote.gr/)** | Telecommunications | [Careers](https://www.cosmote.gr/static/otegroup/el/page/careers-bios) | [LinkedIn](https://www.linkedin.com/company/cosmote) |
 | 11 | **[D-one](https://d-one.gr/)** | Software Development,IT Services,Data,Consulting | [Careers](https://apply.workable.com/d-one/) | [LinkedIn](https://www.linkedin.com/company/d-one-athens) |
@@ -30,22 +28,22 @@ A comprehensive map of Greek tech companies, highlighting their focus sectors, c
 | 18 | **[Elyos AI](https://elyos.ai/)** | AI,Voice Technology,Automation | [Careers](https://careers.elyos.ai/) | [LinkedIn](https://www.linkedin.com/company/elyosai) |
 | 19 | **[Entersoft & SoftOne Merger](https://www.entersoft.gr/)** | ERP,Business Software,IT Servicess | [Careers](https://apply.smartcv.co/entersoft-softone) | [LinkedIn](https://www.linkedin.com/company/entersoftone) |
 | 20 | **[Epam](https://www.epam.com/)** | Software Engineering,Consulting,Digital Platform Development | [Careers](https://www.epam.com/careers/locations/greece) | [LinkedIn](https://www.linkedin.com/company/epam-systems) |
-| 21 | **[Epsilon Net](https://www.epsilonnet.gr/)** | Software,IT Services,Cloud,ERP | [Careers](https://www.epsilonnet.gr/career.aspx) | [LinkedIn](https://www.linkedin.com/company/epsilon-net) |
+| 21 | **[Epsilon Net](https://www.epsilonnet.gr/)** | Software,IT Services,Cloud,ERP | [Careers](https://www.epsilonnet.gr/career.aspx) | [LinkedIn](https://www.linkedin.com/company/epsilonnet) |
 | 22 | **[Etraveli Group](https://www.etraveligroup.com/)** | TravelTech,Online Travel Agency,Booking Platform | [Careers](https://www.etraveligroup.com/careers/) | [LinkedIn](https://www.linkedin.com/company/etraveli-group) |
 | 23 | **[Eurobank](https://www.eurobank.gr/)** | Banking,Fintech | [Careers](https://www.eurobank.gr/el/omilos/anthropino-dinamiko/eykairies-apasxolisis) | [LinkedIn](https://www.linkedin.com/company/eurobank) |
 | 24 | **[European Dynamics](https://www.eurodyn.com/)** | Software,IT Services | [Careers](https://www.eurodyn.com/careers/) | [LinkedIn](https://www.linkedin.com/company/european-dynamics) |
 | 25 | **[Evenly](https://evenly.care/)** | AI,Accessibility Tech,Inclusion Tech | [Careers](https://evenly.care/contact-us-el.html) | [LinkedIn](https://www.linkedin.com/company/evenly-care) |
 | 26 | **[EveryPay](https://www.everypay.gr/)** | Payments,Fintech | [Careers](https://apply.workable.com/everypay-1/) | [LinkedIn](https://www.linkedin.com/company/everypay) |
 | 27 | **[EY Greece](https://www.ey.com/en_gr)** | Assurance,Tax,Consulting,Strategy | [Careers](https://www.ey.com/en_gr/careers) | [LinkedIn](https://www.linkedin.com/company/eygreece) |
-| 28 | **[Ferryhopper](https://www.ferryhopper.com/)** | TravelTech,Booking Platform | [Careers](https://startup.jobs/companies/ferryhopper) | [LinkedIn](https://www.linkedin.com/company/ferryhopper) |
-| 29 | **[Free Now](https://free-now.com/)** | Mobility Tech,Ride Hailing | [Careers](https://free-now.com/careers/) | [LinkedIn](https://www.linkedin.com/company/free-now) |
+| 28 | **[Ferryhopper](https://www.ferryhopper.com/)** | Leisure,Travel,Tourism | [Careers](https://apply.workable.com/ferryhopper/) | [LinkedIn](https://www.linkedin.com/company/ferryhopper) |
+| 29 | **[Free Now](https://free-now.com/)** | Mobility Tech,Ride Hailing | [Careers](https://www.free-now.com/career/jobs/) | [LinkedIn](https://www.linkedin.com/company/free-now) |
 | 30 | **[Hack The Box](https://www.hackthebox.com/)** | Cybersecurity,Penetration Testing,Security Training,Security Labs | [Careers](https://apply.workable.com/hack-the-box-ltd/) | [LinkedIn](https://www.linkedin.com/company/hackthebox) |
 | 31 | **[Hellas Direct](https://www.hellasdirect.gr/)** | Insurtech,Fintech | [Careers](https://www.hellasdirect.gr/kariera) | [LinkedIn](https://www.linkedin.com/company/hellas-direct) |
 | 32 | **[Intelligencia AI](https://www.intelligencia.ai/)** | AI,Pharmaceuticals | [Careers](https://www.intelligencia.ai/careers/) | [LinkedIn](https://www.linkedin.com/company/intelligencia-ai) |
 | 33 | **[Intracom Defense](https://www.intracomdefense.com/)** | Defense Technology,Security,IT Services | [Careers](https://www.intracomdefense.com/work-with-us/job-opportunities/) | [LinkedIn](https://www.linkedin.com/company/intracom-defense) |
 | 34 | **[iTechScope](https://www.itechscope.com/)** | Software,IT Services,Cloud | [Careers](https://www.itechscope.com/jobs/search) | [LinkedIn](https://www.linkedin.com/company/itechscope) |
 | 35 | **[Kaizen Gaming](https://www.kaizengaming.com/)** | GameTech,iGaming | [Careers](https://careers.kaizengaming.com/) | [LinkedIn](https://www.linkedin.com/company/kaizen-gaming) |
-| 36 | **[Kpler](https://www.kpler.com/)** | Data,Analytics,Maritime | [Careers](https://www.kpler.com/company/careers) | [LinkedIn](https://www.linkedin.com/company/kpler) |
+| 36 | **[Kpler](https://www.kpler.com/)** | Data,Analytics,Maritime,Global Trade Intelligence | [Careers](https://www.kpler.com/company/careers) | [LinkedIn](https://www.linkedin.com/company/kpler) |
 | 37 | **[Moveo.ai](https://moveo.ai)** | AI,Automotive,Smart Mobility | [Careers](https://moveo-ai.notion.site/Careers-at-Moveo-AI-6f7204b1e4fd49098c623f623df0592d) | [LinkedIn](https://www.linkedin.com/company/moveo-ai) |
 | 38 | **[Mytilineos](https://www.metlengroup.com/)** | Energy,Industrials,Tech | [Careers](https://www.metlengroup.com/our-people/career-opportunities/) | [LinkedIn](https://www.linkedin.com/company/mytilineos-sa) |
 | 39 | **[Netcompany-Intrasoft](https://netcompany-intrasoft.com/)** | IT Services,Software,Consulting | [Careers](https://netcompany.com/careers/greece/) | [LinkedIn](https://www.linkedin.com/company/netcompany-intrasoft) |
@@ -63,13 +61,13 @@ A comprehensive map of Greek tech companies, highlighting their focus sectors, c
 | 51 | **[Plum Fintech](https://withplum.com/)** | Fintech,Personal Finance,AI | [Careers](https://apply.workable.com/withplum/) | [LinkedIn](https://www.linkedin.com/company/plum-fintech) |
 | 52 | **[Public Group](https://www.publicgroup.gr/)** | Retail,E-commerce,Tech | [Careers](https://jobs.workable.com/company/6FKx25wcUhzj6towYPKDJF/jobs-at-public-group) | [LinkedIn](https://www.linkedin.com/company/publicgroupgr) |
 | 53 | **[Public Power Corporation S.A. (PPC / DEH)](https://www.ppc.gr/)** | Energy,Utilities | [Careers](https://www.ppcgroup.com/el/anthropino-dynamiko/efkairies-karieras/) | [LinkedIn](https://www.linkedin.com/company/ppc-s.a.) |
-| 54 | **[PwC Greece](https://www.pwc.gr/)** | Consulting,Tech,Advisory | [Careers](https://www.pwc.gr/en/careers.html) | [LinkedIn](https://www.linkedin.com/company/pwc-greece) |
+| 54 | **[PwC Greece](https://www.pwc.gr/)** | Consulting,Tech,Advisory | [Careers](https://www.pwc.com/gr/en/careers.html) | [LinkedIn](https://www.linkedin.com/company/pwc-greece) |
 | 55 | **[Qualco](https://www.qualco.eu/)** | Financial Software,Debt Management Solutions,Fintech | [Careers](https://www.qualco.eu/careers/open-positions) | [LinkedIn](https://www.linkedin.com/company/qualco) |
 | 56 | **[Qualcomm Greece](https://www.qualcomm.com/)** | Semiconductors,Telecommunications,5G | [Careers](http://careers.qualcomm.com/careers) | [LinkedIn](https://www.linkedin.com/company/qualcomm) |
 | 57 | **[ReDataset](https://redataset.com/)** | Data,AI |  | [LinkedIn](https://www.linkedin.com/company/redataset) |
 | 58 | **[Revotech](https://revotech.com/)** | Automotive Technology,EV Charging Solutions,Smart Mobility | [Careers](https://revotech.com/careers) | [LinkedIn](https://www.linkedin.com/company/revotech) |
 | 59 | **[RocketX](https://rocketx.group/)** | Venture Capital,Startups,Technology Investments |  | [LinkedIn](https://www.linkedin.com/company/rocketx) |
-| 60 | **[Satori Analytics](https://satorianalytics.com/)** | Data,Big Data,AI |  | [LinkedIn](https://www.linkedin.com/company/satori-analytics) |
+| 60 | **[Satori Analytics](https://satorianalytics.com/)** | Data,Big Data,AI | [Careers](https://apply.workable.com/satori-analytics-1/) | [LinkedIn](https://www.linkedin.com/company/satori-analytics) |
 | 61 | **[Signal Group](https://www.thesignalgroup.com/)** | Digital Transformation,IT Services,Tech | [Careers](https://www.thesignalgroup.com/careers) | [LinkedIn](https://www.linkedin.com/company/the-signal-group) |
 | 62 | **[Silvare](https://silvare.gr/)** | Software Development,Recruitment | [Careers](https://job-boards.eu.greenhouse.io/silvare) | [LinkedIn](https://www.linkedin.com/company/silvare) |
 | 63 | **[Sitecore](https://www.sitecore.com/)** | Digital Experience,CMS,Marketing Tech | [Careers](https://www.sitecore.com/company/careers) | [LinkedIn](https://www.linkedin.com/company/sitecore) |
@@ -90,10 +88,10 @@ A comprehensive map of Greek tech companies, highlighting their focus sectors, c
 | 78 | **[Viva.com](https://www.viva.gr/)** | Fintech,Payments,E-commerce | [Careers](https://www.viva.com/el-gr/about/careers) | [LinkedIn](https://www.linkedin.com/company/viva-com) |
 | 79 | **[Vodafone](https://www.vodafone.gr/)** | Telecommunications | [Careers](https://www.vodafone.gr/vodafone-ellados/kariera) | [LinkedIn](https://www.linkedin.com/company/vodafone) |
 | 80 | **[Wolt Greece](https://wolt.com/en/grc)** | FoodTech,E-commerce | [Careers](https://careers.wolt.com/en/jobs?locations=Greece&location=Greece) | [LinkedIn](https://www.linkedin.com/company/wolt-oy) |
-| 81 | **[Workable](https://www.workable.com/)** | HR Tech,Recruitment Software,SaaS | [Careers](https://apply.workable.com/workable/) | [LinkedIn](https://www.linkedin.com/company/workable) |
+| 81 | **[Workable](https://www.workable.com/)** | HR Tech,Recruitment Software,SaaS | [Careers](https://apply.workable.com/careers/) | [LinkedIn](https://www.linkedin.com/company/workable) |
 | 82 | **[XM](https://www.xm.com/)** | Fintech,Trading Platform,Investment Services | [Careers](https://jobs.eu.lever.co/xm) | [LinkedIn](https://www.linkedin.com/company/xm-global) |
 | 83 | **[Yodeck](https://www.yodeck.com/)** | Digital Signage | [Careers](https://www.yodeck.com/careers/) | [LinkedIn](https://www.linkedin.com/company/flipnode-llc) |
-| 84 | **[Yodiwo](https://www.yodiwo.gr/)** | IoT Platforms,Smart Systems,Edge Computing | [Careers](https://www.yodiwo.gr/careers/) | [LinkedIn](https://www.linkedin.com/company/yodiwo) |
+| 84 | **[Yodiwo](https://www.yodiwo.gr/)** | IoT,Smart Systems,Edge Computing,Consulting | [Careers](https://www.yodiwo.gr/careers/) | [LinkedIn](https://www.linkedin.com/company/yodiwo) |
 
 ---
 ## Useful Search Queries
