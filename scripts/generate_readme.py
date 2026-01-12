@@ -1,5 +1,5 @@
 import yaml
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 
 def generate():
@@ -43,7 +43,24 @@ def generate():
 
     content += "## Engineering Hubs & Career Portals\n"
     total_number_of_companies = len({c["name"] for c in all_companies})
-    content += f"> A directory of *{total_number_of_companies}* tech companies in Greece with direct links to their jobs and LinkedIn presence.\n\n"
+
+    loc_counts = Counter(
+        [loc.strip().title() for c in all_companies for loc in c.get("locations", "")]
+    )
+
+    top_loc, top_count = loc_counts.most_common(1)[0]
+
+    policy_counts = Counter(
+        [c.get("work_policy", "n/a").strip().title() for c in all_companies]
+    )
+
+    remote_count = policy_counts.get("remote", 0)
+    remote_pct = (remote_count / len(all_companies)) * 100
+
+    content += (
+        f"> A community-driven hub featuring **{total_number_of_companies}** unique tech teams. "
+        f"With **{top_count}** offices in **{top_loc}**.\n\n"
+    )
 
     content += "| # | Company Name | Sectors | Careers | LinkedIn |\n"
     content += "| :--- | :--- | :--- | :--- | :--- |\n"
@@ -63,7 +80,9 @@ def generate():
         linkedin_link_md = f"[LinkedIn]({linkedin_link})" if linkedin_link != "" else ""
 
         focus_sector = c.get("sectors", "")
-        focus_sector = ",".join(focus_sector) if isinstance(focus_sector, list) else focus_sector
+        focus_sector = (
+            ",".join(focus_sector) if isinstance(focus_sector, list) else focus_sector
+        )
 
         content += f"| {idx} | **{company_name_md}** | {focus_sector} | {careers_link_md} | {linkedin_link_md} |\n"
     content += "\n---\n"
@@ -79,7 +98,10 @@ def generate():
         content += "## Useful Notes\n"
         if "notes" in readme_data["footer"]:
             content += "\n".join(
-                [f"- **{note['title']}:** {note['content']}" for note in readme_data["footer"]["notes"]]
+                [
+                    f"- **{note['title']}:** {note['content']}"
+                    for note in readme_data["footer"]["notes"]
+                ]
             )
             content += "\n"
 
@@ -87,6 +109,11 @@ def generate():
         content += "### Contributors\n"
         if "description" in readme_data["footer"]:
             content += f"\n{readme_data['footer']['description']}\n"
+
+    content += "\n---\n"
+    content += "### Disclaimer & Mission \n"
+    if readme_data.get("disclaimer"):
+        content += f"\n{readme_data['disclaimer']}\n"
 
     with open("readme.md", "w", encoding="utf-8") as f:
         f.write(content)
